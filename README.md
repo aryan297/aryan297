@@ -7,12 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Node, Angular, fast api 
+- 🔭 I’m currently working on Node, Angular,NEST fast api 
 - 🌱 I’m currently learning arweave,polygon,solidity,ETH
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<div>
-  <a href="linkedin.com/in/aryan-aman-a4a5bb144"> Linked In</a>
-  </div>
+- 💬 Ask me about BlockChain,DAPP,Javascript,typescript,python,C++, Java
+- 📫 How to reach me: <a href="linkedin.com/in/aryan-aman-a4a5bb144"> Linked In</a>
+
 
 
