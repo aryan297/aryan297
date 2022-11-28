@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about BlockChain,DAPP,Javascript,typescript,python,C++, Java
 - ⚡ Fun fact: I am a dancer too.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-aman-a4a5bb144/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-aman-a4a5bb144/)
 
-- <a href="https://www.linkedin.com/in/aryan-aman-a4a5bb144/"> https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge</a>
+
 - 
 
 <div>
