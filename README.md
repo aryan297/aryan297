@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Node, Angular,NEST, Fast Api and Spring boot
+- 🔭 I’m currently working on Node, Angular,React,NEST, Fast Api and Spring boot
 - 🌱 I’m currently learning arweave,polygon,solidity,ETH
 
 - 💬 Ask me about BlockChain,DAPP,Javascript,typescript,python,C++, Java
