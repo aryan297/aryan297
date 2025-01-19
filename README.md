@@ -7,10 +7,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Node, Angular,React,NEST, Fast Api and Spring boot
+- 🔭 I’m currently working on Node, Angular,React,NEST, Spring boot and Gin
 - 🌱 I’m currently learning arweave,polygon,solidity,ETH
 
-- 💬 Ask me about BlockChain,DAPP,Javascript,typescript,python,C++, Java
+- 💬 Ask me about BlockChain,DAPP,Javascript,typescript,python,C++, Java, Go lang
 - ⚡ Fun fact: I am a dancer too.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-aman-a4a5bb144/)
 
